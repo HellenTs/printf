@@ -1,1 +1,1 @@
-Project by Helen Tsegay and Lidya Yonas
+Project by Helen Tsegay and Lidya Yonas.
