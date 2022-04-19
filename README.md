@@ -1,2 +1,2 @@
 # printf
-Project by Helen Tsegay and Lidya Yonass
+Project by Helen Tsegay and Lidya Yonas
