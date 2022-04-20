@@ -110,5 +110,5 @@ char *str_copy(char *str)
 			*(new_str + i) = *(str + i);
 		*(new_str + i) = '\0';
 	}
-	return (new_str)
+	return (new_str);
 }
