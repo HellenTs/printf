@@ -14,4 +14,4 @@ if [[ "$OS" == "Windows_NT" ]]; then
 	"./a.exe"
 else
 	"./a.out"
-fi
+f
