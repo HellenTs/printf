@@ -172,7 +172,7 @@ Written by Lidya Yonas and Hellen Tsegay
 .SH Reporting Bugs
 Report
 .SB _printf
-bugs to <https://github.com/Obed101/printf/issues>
+bugs to <https://github.com/Obed101/printf/issues
 
 .SH See Also
 https://linux.die.net/man/3/scanf
