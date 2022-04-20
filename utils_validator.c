@@ -107,6 +107,6 @@ char is_length(char c)
 	case 'l':
 		return (TRUE);
 	default:
-		return (FALSE);
+		return (FALSE)
 	}
 }
